@@ -94,18 +94,14 @@ Send RFQs directly to the right suppliers with a single click.
 
 ## 📷 Screenshots
 
-
 ### Supplier Discovery
-
-![Discovery](UX 2026-04-09 at 01.32.08.jpeg)
+![Discovery](UX%202026-04-09%20at%2001.32.08.jpeg)
 
 ### User Interface
-
-![UI](userform 2026-04-09 at 01.27.20.jpeg)
+![UI](userform%202026-04-09%20at%2001.27.20.jpeg)
 
 ### Settings Screen
-
-![Settings](settings 2026-04-09 at 01.31.01.jpeg)
+![Settings](settings%202026-04-09%20at%2001.31.01.jpeg)
 
 
 
