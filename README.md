@@ -58,19 +58,43 @@ Finding the right supplier is no longer manual.
 
 ## 🤖 Features
 
-* Outlook email scanning
-* Automatic attachment saving
-* AI-based data extraction:
+🤖 Core Features:
 
-  * RFQ
-  * Part Number
-  * CAGE Code
-  * Price
-  * Currency
-* Excel-based data structure
-* Supplier discovery system
-* Approval workflow
-* PDF extraction via Microsoft Word
+• 📧 Outlook email scanning and processing  
+• 📎 Automatic attachment downloading and organization  
+
+• 🧠 AI-based data extraction:
+  - 📄 RFQ identification  
+  - 🔢 Part Number extraction  
+  - 🏷 CAGE Code detection  
+  - 💰 Price extraction  
+  - 💱 Currency recognition  
+
+• 📊 Structured Excel-based data system  
+• 🔍 Supplier discovery and matching engine  
+• 🔄 Alternative supplier identification  
+
+• ⚙️ Approval workflow system for controlled RFQ processes  
+
+• 📑 Advanced PDF data extraction (via Microsoft Word integration)  
+
+• 🎯 EmailBook logic:
+  - 📬 Matching correct emails with the right parts & manufacturers  
+  - ⚡ Sending RFQs to correct suppliers within minutes  
+  - 💸 Generating competitive offers faster  
+
+• 🛡 Smart control mechanisms:
+  - 🚫 Blacklist management system  
+  - 📏 Rule-based validation engine  
+  - ❌ Prevention of incorrect or misdirected RFQs  
+
+💡 Result:
+
+✔ Faster sourcing  
+✔ Higher accuracy  
+✔ Reduced manual workload  
+✔ Better supplier competition  
+✔ Zero chaos, full control
 
 ---
 
@@ -82,29 +106,59 @@ Send RFQs directly to the right suppliers with a single click.
 
 ---
 
-## 🧠 How It Works
+⚙️ User-Friendly Settings & Control Panel
 
-1. Select Outlook folder
-2. Run the system
-3. Emails are processed automatically
-4. AI extracts supplier data
-5. Results are stored in Excel
+The system includes a fully customizable and user-friendly settings interface, allowing complete control over email processing and RFQ workflows.
 
+🔧 Key configuration capabilities:
+
+• 👤 User account management  
+  - Add / remove users  
+  - Define access permissions  
+
+• 📧 Email control settings  
+  - Auto CC / BCC management  
+  - Remove unwanted recipients  
+  - Control outgoing email rules  
+
+• 🚫 Blacklist management  
+  - Block specific suppliers or domains  
+  - Prevent sending RFQs to restricted contacts  
+
+• 📏 Rule-based workflow engine  
+  - Define custom processing rules  
+  - Control how emails are filtered and handled  
+
+• 🔄 Duplicate & error prevention  
+  - Avoid duplicate RFQ submissions  
+  - Detect and block incorrect data  
+
+• 🎯 Supplier targeting control  
+  - Ensure RFQs are sent to correct suppliers only  
+  - Prevent mismatched part/supplier combinations  
+
+• 📊 Data validation system  
+  - Validate extracted RFQ data before processing  
+  - Ensure accuracy and consistency  
+
+• ⚡ Process customization  
+  - Configure automation steps  
+  - Adjust workflows based on business needs  
+
+💡 Result:
+
+✔ Full control over the system  
+✔ Reduced human error  
+✔ Secure and reliable RFQ process  
+✔ Scalable and customizable automation  
+
+👉 A powerful control layer that ensures accuracy, security, and efficiency in every step.
 ---
 
 ## 📷 Screenshots
 
-### Supplier Discovery
-![Discovery](UX%202026-04-09%20at%2001.32.08.jpeg)
-
 ### User Interface
 ![UI](userform%202026-04-09%20at%2001.27.20.jpeg)
-
-### Settings Screen
-![Settings](settings%202026-04-09%20at%2001.31.01.jpeg)
-
-
-
 
 ---
 
